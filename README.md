@@ -6,6 +6,6 @@ This project is completed with in 5 days. In this project, I tried to replicate 
 
 *📫 How to reach me khanashiq4494@gmail.com
 
-- [@Ashiq_Khan](https://www.linkedin.com/in/ashiq-khan-412709222/)
+- Linked In - [@ashiq-khan-412709222](https://www.linkedin.com/in/ashiq-khan-412709222/)
 - My PortFolio-[@Ashiq_Khan](https://new-portfolio-myseyso3g-ashiq352.vercel.app/#//)
 
